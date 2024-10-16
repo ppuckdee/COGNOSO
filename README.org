@@ -1,7 +1,7 @@
 ** CSE115A Intro to Software Management: Winter 2024
 
 *** Authors (in no particular order)
- - Nick Puckdee
+ - Patcharapol Puckdee
  - Vincent Liu
  - Ish Khandelwal
  - Sairithvik Ventrapragada
